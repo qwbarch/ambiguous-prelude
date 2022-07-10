@@ -1,0 +1,21 @@
+{
+  "name": "hello-gtk",
+  "version": "1.0.0",
+  "author": "qwbarch",
+  "private": true,
+  "main": "index.js",
+  "build": {
+    "extraResources": [
+      "hello-project.exe"
+    ]
+  },
+  "dependencies": {
+    "freeport": "^1.0.5",
+    "wait-on": "^6.0.1"
+  },
+  "devDependencies": {
+    "electron": "19.0.8",
+    "electron-builder": "^23.1.0",
+    "electron-packager": "15.2.0"
+  }
+}
