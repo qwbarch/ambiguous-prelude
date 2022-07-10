@@ -32,4 +32,3 @@ hello-gtk-win32-x64
 node_modules
 result
 flake.lock
-nix/wine/wine64-7.12.tar.gz
